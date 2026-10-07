@@ -32,21 +32,3 @@ Edit `data-validation/rules.json` so the cleaning rules match the prompt you gav
 
 Drift procedure: run baseline, then for each case overwrite the S3 file with `datasets/<case>.csv`, wait for the **scheduled** run, download GCS output, validate, record in `observations/<case>.md`, restore baseline.
 
-## 2. Observations summary
-
-| Case | Change | Pipeline stopped? | Chatbot fix worked? | Details |
-|---|---|---|---|---|
-| Drop column | `country` removed | Yes | Yes | [file](observations/schema-drop-column.md) |
-| Rename column | `email` -> `email_address` | Yes | Yes | [file](observations/schema-rename-column.md) |
-| Change type | `quantity` int -> text | Yes | Yes | [file](observations/schema-change-type.md) |
-| Add column | `loyalty_tier` added | Yes | Yes | [file](observations/schema-add-column.md) |
-| All four together | combined | Yes | Yes | [file](observations/schema-all-combined.md) |
-| Dollars to cents | `amount_usd` x100 | Yes | n/a | [file](observations/semantic-dollars-to-cents.md) |
-| mm/dd to dd/mm | `signup_date` swap | Yes | n/a | [file](observations/semantic-date-mdy-to-dmy.md) |
-| Status recoded | `shipped` -> `S` | No | n/a | [file](observations/semantic-status-recoded.md) |
-
-
-## Design notes
-- Semantic drift is only detectable against a reference. The validator compares cleaned output to the baseline output joined on `order_id`, plus input-scale checks.
-- The baseline contains ambiguous dates (day <= 12) on purpose; otherwise day/month swaps are unambiguous and invisible.
-- `datasets/` plus `simulate_platform.py` prove the validator catches drift offline; that simulator says nothing about Rhombus AI.
