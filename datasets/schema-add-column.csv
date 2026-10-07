@@ -1,0 +1,163 @@
+order_id,customer_name,email,signup_date,country,amount_usd,status,quantity,loyalty_tier
+1117,  FRANK SMITH ,frank.smith117@example.com,16 Feb 2024,United States,322.64,cancelled,1,bronze
+1115,Grace Lee,grace.lee115@example.com,02/29/2024,Canada,469.83,PENDING,1,silver
+1141,judy wilson,JUDY.WILSON141@EXAMPLE.COM,16 Jan 2024,Canada,264.36,pending,5,silver
+1101,alice smith,,11/29/2023,us,218.19,Shipped,9,gold
+1044,  IVAN GARCIA ,IVAN.GARCIA44@EXAMPLE.COM,11/13/2024,USA,279.43,Shipped,7,silver
+1060,Alice Khan,alice.khan60@example.com,18 Aug 2023,Australia,378.35,Shipped,4,silver
+1118,Alice Khan,alice.khan118@example.com,2023-09-07,United States,295.26,Shipped,6,silver
+1008,  DAVE LEE ,DAVE.LEE8@EXAMPLE.COM,18 Apr 2024,United States,343.88,shipped,4,bronze
+1145,Carol Wilson,CAROL.WILSON145@EXAMPLE.COM,03/11/2023,Australia,179.21,shipped,5,silver
+1026,judy smith,judy.smith26@example.com,18 Nov 2023,CA,-253.91,cancelled,3,silver
+1150,  BOB KHAN ,BOB.KHAN150@EXAMPLE.COM,04/07/2023,AU,170.01,cancelled,3,silver
+1049,  DAVE NGUYEN ,dave.nguyen49@example.com,2024-05-21,Australia,446.87,shipped,7,gold
+1045,Grace Lee,GRACE.LEE45@EXAMPLE.COM,09/22/2024,Australia,155.42,Shipped,7,silver
+1089,Grace Smith,GRACE.SMITH89@EXAMPLE.COM,12 Jul 2023,CA,381.20,Shipped,5,bronze
+1030,bob brown,bob.brown30@example.com,06/24/2024,USA,83.08,cancelled,5,silver
+1103,  JUDY LEE , judy.lee103@example.com ,08/26/2023,CA,131.39,shipped,8,silver
+1115,Grace Lee,grace.lee115@example.com,02/29/2024,Canada,469.83,PENDING,1,bronze
+1137,  DAVE NGUYEN ,dave.nguyen137@example.com,2024-09-19,USA,148.28,shipped,1,silver
+1010,heidi lee,heidi.lee10@example.com,29 Sep 2023,USA,N/A,pending,10,gold
+1062,  JUDY JONES ,judy.jones62@example.com,17 Jun 2023,Australia,464.80,cancelled,7,bronze
+1093,,DAVE.WILSON93@EXAMPLE.COM,2024-07-18,AU,,PENDING,7,silver
+1056,  HEIDI SMITH ,HEIDI.SMITH56@EXAMPLE.COM,12/27/2023,United States,246.67,PENDING,7,gold
+1047,,BOB.GARCIA47@EXAMPLE.COM,2024-06-11,United States,338.03,Shipped,999,silver
+1100,dave jones, dave.jones100@example.com ,20 Mar 2024,australia,224.62,Cancelled,5,bronze
+1021,  FRANK NGUYEN , frank.nguyen21@example.com ,2024-02-25,australia,35.00,Cancelled,6,gold
+1144,Carol Wilson,,04/20/2024,us,432.80,Cancelled,6,bronze
+1131,Judy Smith, judy.smith131@example.com ,09/15/2024,Australia,,Cancelled,5,silver
+1077,  BOB BROWN , bob.brown77@example.com ,02 May 2023,United States,388.97,pending,8,silver
+1053,ivan wilson, ivan.wilson53@example.com ,10/27/2024,United States,139.50,PENDING,9,gold
+1067,  FRANK BROWN ,FRANK.BROWN67@EXAMPLE.COM,2023-03-30,CA,287.08,Cancelled,7,gold
+1143,frank lee,frank.lee143@example.com,08/30/2023,United States,90.88,Shipped,2,silver
+1012,Carol Nguyen,CAROL.NGUYEN12@EXAMPLE.COM,25 Sep 2024,USA,485.68,shipped,2,bronze
+1086,  ERIN LEE , erin.lee86@example.com ,08/22/2024,australia,237.66,pending,6,silver
+1040,Erin Khan,not-an-email,18 Oct 2024,us,469.92,shipped,999,silver
+1073,dave brown,dave.brown73@example.com,05/22/2024,United States,183.64,PENDING,1,silver
+1104,  ERIN LEE ,ERIN.LEE104@EXAMPLE.COM,17 Mar 2023,USA,321.27,pending,5,bronze
+1139,  BOB NGUYEN ,bob.nguyen139@example.com,02/13/2023,australia,-431.74,cancelled,7,bronze
+1082,carol garcia,carol.garcia82@example.com,2023-05-26,USA,299.55,cancelled,5,silver
+1083,Heidi Jones,HEIDI.JONES83@EXAMPLE.COM,24 Apr 2024,Canada,471.62,cancelled,9,gold
+1138,heidi nguyen,HEIDI.NGUYEN138@EXAMPLE.COM,29 Jun 2023,United States,252.63,Cancelled,6,bronze
+1099,  GRACE KHAN , grace.khan99@example.com ,2024-10-03,australia,121.21,Cancelled,5,silver
+1023,Dave Jones,dave.jones23@example.com,2024-03-29,Australia,484.65,Shipped,3,silver
+1146,heidi wilson, heidi.wilson146@example.com ,2023-02-22,Canada,234.04,cancelled,1,silver
+1017,Ivan Nguyen, ivan.nguyen17@example.com ,2023-08-05,USA,202.50,Cancelled,6,gold
+1110,Erin Wilson,ERIN.WILSON110@EXAMPLE.COM,2023-10-30,CA,481.63,Shipped,4,bronze
+1080,,,2024-04-06,United States,147.61,PENDING,8,silver
+1130,  BOB KHAN ,bob.khan130@example.com,07/23/2024,United States,-404.57,cancelled,10,bronze
+1074,Ivan Lee,IVAN.LEE74@EXAMPLE.COM,14 Oct 2023,AU,320.75,pending,2,silver
+1140,  JUDY NGUYEN ,JUDY.NGUYEN140@EXAMPLE.COM,2024-10-17,Canada,15.32,PENDING,3,silver
+1025,Erin Nguyen, erin.nguyen25@example.com ,07/23/2024,AU,99.00,Shipped,1,bronze
+1002,Bob Brown, bob.brown2@example.com ,2023-08-27,United States,359.43,Cancelled,9,gold
+1149,  IVAN LEE ,IVAN.LEE149@EXAMPLE.COM,01/22/2024,Australia,395.67,Cancelled,6,gold
+1075,  ALICE GARCIA ,ALICE.GARCIA75@EXAMPLE.COM,04/25/2024,AU,482.92,PENDING,8,bronze
+1125,  BOB BROWN ,not-an-email,03/16/2024,us,414.57,pending,7,bronze
+1094,Frank Garcia, frank.garcia94@example.com ,22 Jan 2023,CA,433.30,pending,9,silver
+1035,Alice Jones,alice.jones35@example.com,19 Mar 2023,Australia,418.12,cancelled,9,silver
+1060,Alice Khan,alice.khan60@example.com,18 Aug 2023,Australia,378.35,Shipped,4,bronze
+1107,judy wilson, judy.wilson107@example.com ,10/21/2023,United States,320.13,cancelled,5,bronze
+1076,  BOB JONES ,bob.jones76@example.com,15 Feb 2024,Australia,-80.10,cancelled,5,bronze
+1034,  FRANK LEE ,,14 Oct 2024,CA,N/A,pending,9,gold
+1006,alice brown,alice.brown6@example.com,2023-10-24,Canada,142.60,Cancelled,6,gold
+1063,Grace Brown, grace.brown63@example.com ,19 Mar 2023,United States,55.44,PENDING,10,gold
+1111,grace khan,GRACE.KHAN111@EXAMPLE.COM,03 Apr 2023,australia,230.12,Cancelled,5,bronze
+1135,  GRACE WILSON ,GRACE.WILSON135@EXAMPLE.COM,09/13/2024,United States,N/A,shipped,6,bronze
+1080,,,2024-04-06,United States,147.61,PENDING,8,silver
+1072,frank wilson, frank.wilson72@example.com ,2023-10-20,us,64.18,cancelled,3,gold
+1046,  JUDY KHAN ,JUDY.KHAN46@EXAMPLE.COM,21 Apr 2024,United States,258.03,Cancelled,3,gold
+1097,carol wilson,,2023-02-23,CA,12.60,Shipped,999,gold
+1088,alice wilson,not-an-email,23 Apr 2023,Australia,330.54,cancelled,8,gold
+1134,judy jones,judy.jones134@example.com,23 Feb 2023,Australia,338.61,PENDING,8,bronze
+1109,frank nguyen,frank.nguyen109@example.com,29 Jun 2023,us,,PENDING,3,silver
+1081,Bob Brown, bob.brown81@example.com ,28 Sep 2023,United States,215.44,cancelled,4,silver
+1066,Ivan Garcia,IVAN.GARCIA66@EXAMPLE.COM,09/22/2024,Canada,413.74,cancelled,5,silver
+1137,  DAVE NGUYEN ,dave.nguyen137@example.com,2024-09-19,USA,148.28,shipped,1,bronze
+1069,erin garcia, erin.garcia69@example.com ,2024-07-23,australia,124.47,pending,8,gold
+1064,Bob Smith,BOB.SMITH64@EXAMPLE.COM,22 Dec 2023,us,39.13,Cancelled,6,bronze
+1087,  FRANK JONES ,FRANK.JONES87@EXAMPLE.COM,14 Jun 2023,CA,N/A,pending,9,gold
+1009,  ALICE KHAN ,alice.khan9@example.com,2024-02-15,us,110.25,pending,7,bronze
+1059,  FRANK BROWN ,FRANK.BROWN59@EXAMPLE.COM,04/25/2024,australia,237.80,Cancelled,9,silver
+1127,bob jones,BOB.JONES127@EXAMPLE.COM,2023-03-29,us,406.83,cancelled,1,silver
+1085,  DAVE SMITH ,,2024-11-19,AU,237.90,Cancelled,8,silver
+1126,  BOB KHAN , bob.khan126@example.com ,03/13/2024,us,477.03,Cancelled,8,silver
+1016,Bob Wilson,bob.wilson16@example.com,2023-03-12,CA,473.69,Shipped,5,gold
+1039,heidi khan,heidi.khan39@example.com,2023-11-09,United States,202.24,PENDING,2,bronze
+1122,Alice Garcia,alice.garcia122@example.com,2024-04-14,CA,424.41,pending,2,gold
+1106,Erin Garcia,ERIN.GARCIA106@EXAMPLE.COM,01/23/2023,Australia,285.13,Cancelled,1,bronze
+1015,ivan smith,IVAN.SMITH15@EXAMPLE.COM,09/13/2024,United States,33.67,cancelled,2,silver
+1055,,GRACE.SMITH55@EXAMPLE.COM,31 Jul 2023,Australia,429.08,cancelled,7,silver
+1068,  FRANK SMITH ,frank.smith68@example.com,05/21/2024,United States,180.64,PENDING,6,silver
+1078,  HEIDI GARCIA ,HEIDI.GARCIA78@EXAMPLE.COM,25 Aug 2024,Australia,306.77,Cancelled,2,bronze
+1071,Erin Khan, erin.khan71@example.com ,04/29/2024,Canada,498.33,cancelled,6,silver
+1020,ivan lee,IVAN.LEE20@EXAMPLE.COM,08/07/2024,United States,-51.69,Cancelled,7,gold
+1028,judy smith,JUDY.SMITH28@EXAMPLE.COM,26 Sep 2024,us,467.68,Shipped,6,gold
+1033,ivan wilson,ivan.wilson33@example.com,15 Sep 2023,Canada,,shipped,1,gold
+1003,grace brown,grace.brown3@example.com,04 Apr 2024,Canada,173.42,Shipped,4,bronze
+1120,carol smith, carol.smith120@example.com ,01/02/2024,Australia,91.25,shipped,3,gold
+1001,Bob Smith,bob.smith1@example.com,17 Oct 2023,australia,297.29,shipped,1,silver
+1079,Dave Brown,dave.brown79@example.com,2023-09-28,United States,91.04,shipped,3,bronze
+1058,Grace Smith,not-an-email,2023-03-27,CA,94.96,PENDING,7,silver
+1105,  HEIDI GARCIA ,HEIDI.GARCIA105@EXAMPLE.COM,2023-07-23,United States,193.78,PENDING,10,bronze
+1091,Dave Lee,dave.lee91@example.com,15 Nov 2023,Canada,51.14,shipped,8,gold
+1061,Alice Lee,alice.lee61@example.com,09/16/2023,USA,384.61,Shipped,10,silver
+1114,alice smith,alice.smith114@example.com,2023-11-08,AU,197.38,PENDING,9,silver
+1094,Frank Garcia, frank.garcia94@example.com ,22 Jan 2023,CA,433.30,pending,9,bronze
+1061,Alice Lee,alice.lee61@example.com,09/16/2023,USA,384.61,Shipped,10,silver
+1037,grace lee,grace.lee37@example.com,08/31/2023,Australia,93.78,PENDING,7,gold
+1005,, grace.jones5@example.com ,19 Jul 2024,us,290.79,Cancelled,2,bronze
+1018,  HEIDI WILSON ,heidi.wilson18@example.com,15 May 2023,United States,296.28,shipped,2,silver
+1019,  ALICE BROWN ,alice.brown19@example.com,11 Mar 2023,United States,142.85,pending,4,bronze
+1102,grace lee,grace.lee102@example.com,24 Jun 2023,Canada,311.76,Shipped,8,silver
+1043,Frank Nguyen,FRANK.NGUYEN43@EXAMPLE.COM,13 Mar 2023,us,333.38,shipped,5,gold
+1084,Heidi Wilson,heidi.wilson84@example.com,03/24/2023,us,303.84,shipped,2,gold
+1092,Bob Lee,BOB.LEE92@EXAMPLE.COM,25 May 2024,USA,210.67,pending,8,gold
+1012,Carol Nguyen,CAROL.NGUYEN12@EXAMPLE.COM,25 Sep 2024,USA,485.68,shipped,2,gold
+1013,  IVAN GARCIA ,ivan.garcia13@example.com,10/18/2024,Canada,83.29,shipped,5,silver
+1041,  CAROL GARCIA , carol.garcia41@example.com ,02/26/2023,Canada,305.07,cancelled,2,gold
+1004,  FRANK JONES , frank.jones4@example.com ,04/24/2023,Australia,366.22,cancelled,2,bronze
+1029,  DAVE GARCIA ,DAVE.GARCIA29@EXAMPLE.COM,2024-02-22,Australia,231.85,cancelled,2,silver
+1123,heidi wilson,HEIDI.WILSON123@EXAMPLE.COM,17 Mar 2023,AU,37.51,PENDING,10,gold
+1011,grace khan, grace.khan11@example.com ,08/13/2023,australia,379.11,shipped,3,bronze
+1062,  JUDY JONES ,judy.jones62@example.com,17 Jun 2023,Australia,464.80,cancelled,7,silver
+1031,Judy Smith,JUDY.SMITH31@EXAMPLE.COM,14 Nov 2024,australia,469.77,Shipped,5,bronze
+1048,carol smith,CAROL.SMITH48@EXAMPLE.COM,17 Feb 2023,australia,230.43,Cancelled,10,silver
+1148,Frank Jones,frank.jones148@example.com,2024-05-31,United States,355.27,pending,9,bronze
+1051,Carol Wilson, carol.wilson51@example.com ,14 Nov 2024,us,475.27,pending,10,gold
+1128,judy khan,JUDY.KHAN128@EXAMPLE.COM,11/17/2024,Canada,434.71,Cancelled,1,bronze
+1054,Bob Lee,bob.lee54@example.com,2023-06-17,Canada,206.76,cancelled,8,bronze
+1007,carol khan, carol.khan7@example.com ,12/30/2023,australia,306.52,Shipped,9,silver
+1090,  IVAN LEE ,,10/22/2023,australia,19.29,Cancelled,10,silver
+1106,Erin Garcia,ERIN.GARCIA106@EXAMPLE.COM,01/23/2023,Australia,285.13,Cancelled,1,gold
+1057,Heidi Smith,heidi.smith57@example.com,02/25/2024,AU,490.46,cancelled,1,bronze
+1024,grace wilson,grace.wilson24@example.com,05/25/2024,Australia,,PENDING,8,bronze
+1112,  JUDY NGUYEN ,judy.nguyen112@example.com,15 Oct 2024,United States,238.38,cancelled,9,bronze
+1038,Dave Garcia,dave.garcia38@example.com,06/13/2023,Australia,430.00,Shipped,4,bronze
+1132,Frank Khan, frank.khan132@example.com ,01/17/2023,australia,75.23,Cancelled,1,gold
+1116,  FRANK BROWN ,frank.brown116@example.com,03/30/2024,australia,490.56,PENDING,9,silver
+1070,  IVAN BROWN ,IVAN.BROWN70@EXAMPLE.COM,2024-05-02,australia,150.65,pending,4,bronze
+1113,frank brown, frank.brown113@example.com ,10/25/2024,USA,326.37,shipped,3,gold
+1022,bob brown,,07/16/2023,AU,213.83,PENDING,8,gold
+1114,alice smith,alice.smith114@example.com,2023-11-08,AU,197.38,PENDING,9,gold
+1032,bob jones,BOB.JONES32@EXAMPLE.COM,07/20/2024,United States,360.22,Shipped,5,gold
+1133,  BOB BROWN ,BOB.BROWN133@EXAMPLE.COM,01/21/2024,AU,188.18,Cancelled,6,gold
+1027,Alice Jones,alice.jones27@example.com,07/15/2023,australia,471.09,cancelled,4,silver
+1142,frank brown, frank.brown142@example.com ,08 Dec 2023,australia,267.65,Shipped,6,gold
+1096,  JUDY NGUYEN ,judy.nguyen96@example.com,08/28/2023,CA,354.09,pending,7,silver
+1124,Judy Khan, judy.khan124@example.com ,01/26/2024,CA,255.25,pending,2,bronze
+1014,Ivan Lee,IVAN.LEE14@EXAMPLE.COM,03 Jun 2024,United States,80.66,Shipped,9,bronze
+1065,alice nguyen,ALICE.NGUYEN65@EXAMPLE.COM,05/16/2024,CA,355.12,pending,3,silver
+1036,carol nguyen,not-an-email,2023-05-24,United States,335.13,PENDING,9,silver
+1052,  IVAN NGUYEN ,ivan.nguyen52@example.com,15 Jul 2024,CA,227.78,Shipped,5,bronze
+1042,grace brown, grace.brown42@example.com ,09/18/2023,Australia,262.36,cancelled,0,gold
+1108,  CAROL JONES ,CAROL.JONES108@EXAMPLE.COM,2024-10-04,us,367.52,shipped,5,bronze
+1136,Grace Jones, grace.jones136@example.com ,18 Oct 2023,CA,265.83,PENDING,1,gold
+1129,erin garcia, erin.garcia129@example.com ,27 Dec 2023,United States,81.59,pending,4,gold
+1098,  CAROL JONES ,CAROL.JONES98@EXAMPLE.COM,25 Apr 2024,Canada,326.67,PENDING,9,silver
+1073,dave brown,dave.brown73@example.com,05/22/2024,United States,183.64,PENDING,1,silver
+1119,carol smith,carol.smith119@example.com,11 Oct 2023,USA,400.26,shipped,1,bronze
+1113,frank brown, frank.brown113@example.com ,10/25/2024,USA,326.37,shipped,3,bronze
+1147,Heidi Brown,HEIDI.BROWN147@EXAMPLE.COM,26 Nov 2023,AU,479.07,pending,2,silver
+1095,Heidi Khan,HEIDI.KHAN95@EXAMPLE.COM,12/07/2023,us,435.45,Cancelled,4,bronze
+1050,  DAVE LEE ,not-an-email,14 Jun 2024,United States,459.15,shipped,8,silver
+1121,  GRACE JONES , grace.jones121@example.com ,07 Mar 2023,australia,228.74,Shipped,10,silver

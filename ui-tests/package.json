@@ -1,0 +1,6 @@
+{
+  "name": "rhombus-ui-tests",
+  "private": true,
+  "scripts": { "test": "playwright test", "test:headed": "playwright test --headed", "codegen": "playwright codegen https://rhombusai.com" },
+  "devDependencies": { "@playwright/test": "^1.48.0", "dotenv": "^16.4.5", "typescript": "^5.6.0" }
+}

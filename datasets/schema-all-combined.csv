@@ -1,0 +1,163 @@
+order_id,customer_name,email_address,signup_date,amount_usd,status,quantity,loyalty_tier
+1117,  FRANK SMITH ,frank.smith117@example.com,16 Feb 2024,322.64,cancelled,1 units,gold
+1115,Grace Lee,grace.lee115@example.com,02/29/2024,469.83,PENDING,1 units,gold
+1141,judy wilson,JUDY.WILSON141@EXAMPLE.COM,16 Jan 2024,264.36,pending,5 units,gold
+1101,alice smith,,11/29/2023,218.19,Shipped,9 units,gold
+1044,  IVAN GARCIA ,IVAN.GARCIA44@EXAMPLE.COM,11/13/2024,279.43,Shipped,7 units,gold
+1060,Alice Khan,alice.khan60@example.com,18 Aug 2023,378.35,Shipped,4 units,gold
+1118,Alice Khan,alice.khan118@example.com,2023-09-07,295.26,Shipped,6 units,gold
+1008,  DAVE LEE ,DAVE.LEE8@EXAMPLE.COM,18 Apr 2024,343.88,shipped,4 units,gold
+1145,Carol Wilson,CAROL.WILSON145@EXAMPLE.COM,03/11/2023,179.21,shipped,5 units,gold
+1026,judy smith,judy.smith26@example.com,18 Nov 2023,-253.91,cancelled,3 units,gold
+1150,  BOB KHAN ,BOB.KHAN150@EXAMPLE.COM,04/07/2023,170.01,cancelled,3 units,gold
+1049,  DAVE NGUYEN ,dave.nguyen49@example.com,2024-05-21,446.87,shipped,7 units,gold
+1045,Grace Lee,GRACE.LEE45@EXAMPLE.COM,09/22/2024,155.42,Shipped,7 units,gold
+1089,Grace Smith,GRACE.SMITH89@EXAMPLE.COM,12 Jul 2023,381.20,Shipped,5 units,gold
+1030,bob brown,bob.brown30@example.com,06/24/2024,83.08,cancelled,5 units,gold
+1103,  JUDY LEE , judy.lee103@example.com ,08/26/2023,131.39,shipped,8 units,gold
+1115,Grace Lee,grace.lee115@example.com,02/29/2024,469.83,PENDING,1 units,gold
+1137,  DAVE NGUYEN ,dave.nguyen137@example.com,2024-09-19,148.28,shipped,1 units,gold
+1010,heidi lee,heidi.lee10@example.com,29 Sep 2023,N/A,pending,10 units,gold
+1062,  JUDY JONES ,judy.jones62@example.com,17 Jun 2023,464.80,cancelled,7 units,gold
+1093,,DAVE.WILSON93@EXAMPLE.COM,2024-07-18,,PENDING,7 units,gold
+1056,  HEIDI SMITH ,HEIDI.SMITH56@EXAMPLE.COM,12/27/2023,246.67,PENDING,7 units,gold
+1047,,BOB.GARCIA47@EXAMPLE.COM,2024-06-11,338.03,Shipped,999 units,gold
+1100,dave jones, dave.jones100@example.com ,20 Mar 2024,224.62,Cancelled,5 units,gold
+1021,  FRANK NGUYEN , frank.nguyen21@example.com ,2024-02-25,35.00,Cancelled,6 units,gold
+1144,Carol Wilson,,04/20/2024,432.80,Cancelled,6 units,gold
+1131,Judy Smith, judy.smith131@example.com ,09/15/2024,,Cancelled,5 units,gold
+1077,  BOB BROWN , bob.brown77@example.com ,02 May 2023,388.97,pending,8 units,gold
+1053,ivan wilson, ivan.wilson53@example.com ,10/27/2024,139.50,PENDING,9 units,gold
+1067,  FRANK BROWN ,FRANK.BROWN67@EXAMPLE.COM,2023-03-30,287.08,Cancelled,7 units,gold
+1143,frank lee,frank.lee143@example.com,08/30/2023,90.88,Shipped,2 units,gold
+1012,Carol Nguyen,CAROL.NGUYEN12@EXAMPLE.COM,25 Sep 2024,485.68,shipped,2 units,gold
+1086,  ERIN LEE , erin.lee86@example.com ,08/22/2024,237.66,pending,6 units,gold
+1040,Erin Khan,not-an-email,18 Oct 2024,469.92,shipped,999 units,gold
+1073,dave brown,dave.brown73@example.com,05/22/2024,183.64,PENDING,1 units,gold
+1104,  ERIN LEE ,ERIN.LEE104@EXAMPLE.COM,17 Mar 2023,321.27,pending,5 units,gold
+1139,  BOB NGUYEN ,bob.nguyen139@example.com,02/13/2023,-431.74,cancelled,7 units,gold
+1082,carol garcia,carol.garcia82@example.com,2023-05-26,299.55,cancelled,5 units,gold
+1083,Heidi Jones,HEIDI.JONES83@EXAMPLE.COM,24 Apr 2024,471.62,cancelled,9 units,gold
+1138,heidi nguyen,HEIDI.NGUYEN138@EXAMPLE.COM,29 Jun 2023,252.63,Cancelled,6 units,gold
+1099,  GRACE KHAN , grace.khan99@example.com ,2024-10-03,121.21,Cancelled,5 units,gold
+1023,Dave Jones,dave.jones23@example.com,2024-03-29,484.65,Shipped,3 units,gold
+1146,heidi wilson, heidi.wilson146@example.com ,2023-02-22,234.04,cancelled,1 units,gold
+1017,Ivan Nguyen, ivan.nguyen17@example.com ,2023-08-05,202.50,Cancelled,6 units,gold
+1110,Erin Wilson,ERIN.WILSON110@EXAMPLE.COM,2023-10-30,481.63,Shipped,4 units,gold
+1080,,,2024-04-06,147.61,PENDING,8 units,gold
+1130,  BOB KHAN ,bob.khan130@example.com,07/23/2024,-404.57,cancelled,10 units,gold
+1074,Ivan Lee,IVAN.LEE74@EXAMPLE.COM,14 Oct 2023,320.75,pending,2 units,gold
+1140,  JUDY NGUYEN ,JUDY.NGUYEN140@EXAMPLE.COM,2024-10-17,15.32,PENDING,3 units,gold
+1025,Erin Nguyen, erin.nguyen25@example.com ,07/23/2024,99.00,Shipped,1 units,gold
+1002,Bob Brown, bob.brown2@example.com ,2023-08-27,359.43,Cancelled,9 units,gold
+1149,  IVAN LEE ,IVAN.LEE149@EXAMPLE.COM,01/22/2024,395.67,Cancelled,6 units,gold
+1075,  ALICE GARCIA ,ALICE.GARCIA75@EXAMPLE.COM,04/25/2024,482.92,PENDING,8 units,gold
+1125,  BOB BROWN ,not-an-email,03/16/2024,414.57,pending,7 units,gold
+1094,Frank Garcia, frank.garcia94@example.com ,22 Jan 2023,433.30,pending,9 units,gold
+1035,Alice Jones,alice.jones35@example.com,19 Mar 2023,418.12,cancelled,9 units,gold
+1060,Alice Khan,alice.khan60@example.com,18 Aug 2023,378.35,Shipped,4 units,gold
+1107,judy wilson, judy.wilson107@example.com ,10/21/2023,320.13,cancelled,5 units,gold
+1076,  BOB JONES ,bob.jones76@example.com,15 Feb 2024,-80.10,cancelled,5 units,gold
+1034,  FRANK LEE ,,14 Oct 2024,N/A,pending,9 units,gold
+1006,alice brown,alice.brown6@example.com,2023-10-24,142.60,Cancelled,6 units,gold
+1063,Grace Brown, grace.brown63@example.com ,19 Mar 2023,55.44,PENDING,10 units,gold
+1111,grace khan,GRACE.KHAN111@EXAMPLE.COM,03 Apr 2023,230.12,Cancelled,5 units,gold
+1135,  GRACE WILSON ,GRACE.WILSON135@EXAMPLE.COM,09/13/2024,N/A,shipped,6 units,gold
+1080,,,2024-04-06,147.61,PENDING,8 units,gold
+1072,frank wilson, frank.wilson72@example.com ,2023-10-20,64.18,cancelled,3 units,gold
+1046,  JUDY KHAN ,JUDY.KHAN46@EXAMPLE.COM,21 Apr 2024,258.03,Cancelled,3 units,gold
+1097,carol wilson,,2023-02-23,12.60,Shipped,999 units,gold
+1088,alice wilson,not-an-email,23 Apr 2023,330.54,cancelled,8 units,gold
+1134,judy jones,judy.jones134@example.com,23 Feb 2023,338.61,PENDING,8 units,gold
+1109,frank nguyen,frank.nguyen109@example.com,29 Jun 2023,,PENDING,3 units,gold
+1081,Bob Brown, bob.brown81@example.com ,28 Sep 2023,215.44,cancelled,4 units,gold
+1066,Ivan Garcia,IVAN.GARCIA66@EXAMPLE.COM,09/22/2024,413.74,cancelled,5 units,gold
+1137,  DAVE NGUYEN ,dave.nguyen137@example.com,2024-09-19,148.28,shipped,1 units,gold
+1069,erin garcia, erin.garcia69@example.com ,2024-07-23,124.47,pending,8 units,gold
+1064,Bob Smith,BOB.SMITH64@EXAMPLE.COM,22 Dec 2023,39.13,Cancelled,6 units,gold
+1087,  FRANK JONES ,FRANK.JONES87@EXAMPLE.COM,14 Jun 2023,N/A,pending,9 units,gold
+1009,  ALICE KHAN ,alice.khan9@example.com,2024-02-15,110.25,pending,7 units,gold
+1059,  FRANK BROWN ,FRANK.BROWN59@EXAMPLE.COM,04/25/2024,237.80,Cancelled,9 units,gold
+1127,bob jones,BOB.JONES127@EXAMPLE.COM,2023-03-29,406.83,cancelled,1 units,gold
+1085,  DAVE SMITH ,,2024-11-19,237.90,Cancelled,8 units,gold
+1126,  BOB KHAN , bob.khan126@example.com ,03/13/2024,477.03,Cancelled,8 units,gold
+1016,Bob Wilson,bob.wilson16@example.com,2023-03-12,473.69,Shipped,5 units,gold
+1039,heidi khan,heidi.khan39@example.com,2023-11-09,202.24,PENDING,2 units,gold
+1122,Alice Garcia,alice.garcia122@example.com,2024-04-14,424.41,pending,2 units,gold
+1106,Erin Garcia,ERIN.GARCIA106@EXAMPLE.COM,01/23/2023,285.13,Cancelled,1 units,gold
+1015,ivan smith,IVAN.SMITH15@EXAMPLE.COM,09/13/2024,33.67,cancelled,2 units,gold
+1055,,GRACE.SMITH55@EXAMPLE.COM,31 Jul 2023,429.08,cancelled,7 units,gold
+1068,  FRANK SMITH ,frank.smith68@example.com,05/21/2024,180.64,PENDING,6 units,gold
+1078,  HEIDI GARCIA ,HEIDI.GARCIA78@EXAMPLE.COM,25 Aug 2024,306.77,Cancelled,2 units,gold
+1071,Erin Khan, erin.khan71@example.com ,04/29/2024,498.33,cancelled,6 units,gold
+1020,ivan lee,IVAN.LEE20@EXAMPLE.COM,08/07/2024,-51.69,Cancelled,7 units,gold
+1028,judy smith,JUDY.SMITH28@EXAMPLE.COM,26 Sep 2024,467.68,Shipped,6 units,gold
+1033,ivan wilson,ivan.wilson33@example.com,15 Sep 2023,,shipped,1 units,gold
+1003,grace brown,grace.brown3@example.com,04 Apr 2024,173.42,Shipped,4 units,gold
+1120,carol smith, carol.smith120@example.com ,01/02/2024,91.25,shipped,3 units,gold
+1001,Bob Smith,bob.smith1@example.com,17 Oct 2023,297.29,shipped,1 units,gold
+1079,Dave Brown,dave.brown79@example.com,2023-09-28,91.04,shipped,3 units,gold
+1058,Grace Smith,not-an-email,2023-03-27,94.96,PENDING,7 units,gold
+1105,  HEIDI GARCIA ,HEIDI.GARCIA105@EXAMPLE.COM,2023-07-23,193.78,PENDING,10 units,gold
+1091,Dave Lee,dave.lee91@example.com,15 Nov 2023,51.14,shipped,8 units,gold
+1061,Alice Lee,alice.lee61@example.com,09/16/2023,384.61,Shipped,10 units,gold
+1114,alice smith,alice.smith114@example.com,2023-11-08,197.38,PENDING,9 units,gold
+1094,Frank Garcia, frank.garcia94@example.com ,22 Jan 2023,433.30,pending,9 units,gold
+1061,Alice Lee,alice.lee61@example.com,09/16/2023,384.61,Shipped,10 units,gold
+1037,grace lee,grace.lee37@example.com,08/31/2023,93.78,PENDING,7 units,gold
+1005,, grace.jones5@example.com ,19 Jul 2024,290.79,Cancelled,2 units,gold
+1018,  HEIDI WILSON ,heidi.wilson18@example.com,15 May 2023,296.28,shipped,2 units,gold
+1019,  ALICE BROWN ,alice.brown19@example.com,11 Mar 2023,142.85,pending,4 units,gold
+1102,grace lee,grace.lee102@example.com,24 Jun 2023,311.76,Shipped,8 units,gold
+1043,Frank Nguyen,FRANK.NGUYEN43@EXAMPLE.COM,13 Mar 2023,333.38,shipped,5 units,gold
+1084,Heidi Wilson,heidi.wilson84@example.com,03/24/2023,303.84,shipped,2 units,gold
+1092,Bob Lee,BOB.LEE92@EXAMPLE.COM,25 May 2024,210.67,pending,8 units,gold
+1012,Carol Nguyen,CAROL.NGUYEN12@EXAMPLE.COM,25 Sep 2024,485.68,shipped,2 units,gold
+1013,  IVAN GARCIA ,ivan.garcia13@example.com,10/18/2024,83.29,shipped,5 units,gold
+1041,  CAROL GARCIA , carol.garcia41@example.com ,02/26/2023,305.07,cancelled,2 units,gold
+1004,  FRANK JONES , frank.jones4@example.com ,04/24/2023,366.22,cancelled,2 units,gold
+1029,  DAVE GARCIA ,DAVE.GARCIA29@EXAMPLE.COM,2024-02-22,231.85,cancelled,2 units,gold
+1123,heidi wilson,HEIDI.WILSON123@EXAMPLE.COM,17 Mar 2023,37.51,PENDING,10 units,gold
+1011,grace khan, grace.khan11@example.com ,08/13/2023,379.11,shipped,3 units,gold
+1062,  JUDY JONES ,judy.jones62@example.com,17 Jun 2023,464.80,cancelled,7 units,gold
+1031,Judy Smith,JUDY.SMITH31@EXAMPLE.COM,14 Nov 2024,469.77,Shipped,5 units,gold
+1048,carol smith,CAROL.SMITH48@EXAMPLE.COM,17 Feb 2023,230.43,Cancelled,10 units,gold
+1148,Frank Jones,frank.jones148@example.com,2024-05-31,355.27,pending,9 units,gold
+1051,Carol Wilson, carol.wilson51@example.com ,14 Nov 2024,475.27,pending,10 units,gold
+1128,judy khan,JUDY.KHAN128@EXAMPLE.COM,11/17/2024,434.71,Cancelled,1 units,gold
+1054,Bob Lee,bob.lee54@example.com,2023-06-17,206.76,cancelled,8 units,gold
+1007,carol khan, carol.khan7@example.com ,12/30/2023,306.52,Shipped,9 units,gold
+1090,  IVAN LEE ,,10/22/2023,19.29,Cancelled,10 units,gold
+1106,Erin Garcia,ERIN.GARCIA106@EXAMPLE.COM,01/23/2023,285.13,Cancelled,1 units,gold
+1057,Heidi Smith,heidi.smith57@example.com,02/25/2024,490.46,cancelled,1 units,gold
+1024,grace wilson,grace.wilson24@example.com,05/25/2024,,PENDING,8 units,gold
+1112,  JUDY NGUYEN ,judy.nguyen112@example.com,15 Oct 2024,238.38,cancelled,9 units,gold
+1038,Dave Garcia,dave.garcia38@example.com,06/13/2023,430.00,Shipped,4 units,gold
+1132,Frank Khan, frank.khan132@example.com ,01/17/2023,75.23,Cancelled,1 units,gold
+1116,  FRANK BROWN ,frank.brown116@example.com,03/30/2024,490.56,PENDING,9 units,gold
+1070,  IVAN BROWN ,IVAN.BROWN70@EXAMPLE.COM,2024-05-02,150.65,pending,4 units,gold
+1113,frank brown, frank.brown113@example.com ,10/25/2024,326.37,shipped,3 units,gold
+1022,bob brown,,07/16/2023,213.83,PENDING,8 units,gold
+1114,alice smith,alice.smith114@example.com,2023-11-08,197.38,PENDING,9 units,gold
+1032,bob jones,BOB.JONES32@EXAMPLE.COM,07/20/2024,360.22,Shipped,5 units,gold
+1133,  BOB BROWN ,BOB.BROWN133@EXAMPLE.COM,01/21/2024,188.18,Cancelled,6 units,gold
+1027,Alice Jones,alice.jones27@example.com,07/15/2023,471.09,cancelled,4 units,gold
+1142,frank brown, frank.brown142@example.com ,08 Dec 2023,267.65,Shipped,6 units,gold
+1096,  JUDY NGUYEN ,judy.nguyen96@example.com,08/28/2023,354.09,pending,7 units,gold
+1124,Judy Khan, judy.khan124@example.com ,01/26/2024,255.25,pending,2 units,gold
+1014,Ivan Lee,IVAN.LEE14@EXAMPLE.COM,03 Jun 2024,80.66,Shipped,9 units,gold
+1065,alice nguyen,ALICE.NGUYEN65@EXAMPLE.COM,05/16/2024,355.12,pending,3 units,gold
+1036,carol nguyen,not-an-email,2023-05-24,335.13,PENDING,9 units,gold
+1052,  IVAN NGUYEN ,ivan.nguyen52@example.com,15 Jul 2024,227.78,Shipped,5 units,gold
+1042,grace brown, grace.brown42@example.com ,09/18/2023,262.36,cancelled,0 units,gold
+1108,  CAROL JONES ,CAROL.JONES108@EXAMPLE.COM,2024-10-04,367.52,shipped,5 units,gold
+1136,Grace Jones, grace.jones136@example.com ,18 Oct 2023,265.83,PENDING,1 units,gold
+1129,erin garcia, erin.garcia129@example.com ,27 Dec 2023,81.59,pending,4 units,gold
+1098,  CAROL JONES ,CAROL.JONES98@EXAMPLE.COM,25 Apr 2024,326.67,PENDING,9 units,gold
+1073,dave brown,dave.brown73@example.com,05/22/2024,183.64,PENDING,1 units,gold
+1119,carol smith,carol.smith119@example.com,11 Oct 2023,400.26,shipped,1 units,gold
+1113,frank brown, frank.brown113@example.com ,10/25/2024,326.37,shipped,3 units,gold
+1147,Heidi Brown,HEIDI.BROWN147@EXAMPLE.COM,26 Nov 2023,479.07,pending,2 units,gold
+1095,Heidi Khan,HEIDI.KHAN95@EXAMPLE.COM,12/07/2023,435.45,Cancelled,4 units,gold
+1050,  DAVE LEE ,not-an-email,14 Jun 2024,459.15,shipped,8 units,gold
+1121,  GRACE JONES , grace.jones121@example.com ,07 Mar 2023,228.74,Shipped,10 units,gold

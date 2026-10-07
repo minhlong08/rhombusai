@@ -1,0 +1,20 @@
+{
+  "_comment": "Edit so these match the cleaning rules you asked the AI builder for. Anything not asked for should be set to false, otherwise you will report platform 'failures' that are really prompt gaps.",
+  "key_column": "order_id",
+  "expected_input_columns": ["order_id","customer_name","email","signup_date","country","amount_usd","status","quantity"],
+  "expected_output_columns": ["order_id","customer_name","email","signup_date","country","amount_usd","status","quantity"],
+  "required_non_null": ["order_id","customer_name","email","amount_usd"],
+  "dedupe": true,
+  "email_valid_lowercase_trimmed": true,
+  "name_trimmed": true,
+  "amount_numeric_non_negative": true,
+  "date_iso_format": true,
+  "status_lowercase": true,
+  "quantity_range": [1, 100],
+  "semantic": {
+    "numeric_column": "amount_usd",
+    "numeric_median_ratio_tolerance": 0.2,
+    "date_column": "signup_date",
+    "categorical_column": "status"
+  }
+}
